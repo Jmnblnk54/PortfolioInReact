@@ -1,0 +1,88 @@
+[
+    {
+        "id": 0,
+        "title": "React-Portfolio",
+        "gitHubLink": "https://github.com/Jmnblnk54/PortfolioInReact",
+        "preview": "",
+        "role": "Student, University of Oregon Full Stack Bootcamp",
+        "description": "The portfolio website you are currently viewing was built and designed by me from scratch. The current build of this website is a Single-Page application built using React, with BootStrap styling elements provided through the ReactStrap Node Package.",
+        "tags": ["All", "Featured Projects", "React", "JavaScript"],
+        "tags-full": []
+    },{
+        "id": 1,
+        "title": "QuoteGoat",
+        "siteLink": "https://letsdev.herokuapp.com/",
+        "gitHubLink": "https://github.com/acekreations/Lets-Dev",
+        "preview": "./assets/images/previews/quoteGoatSS.jpg",
+        "role": "Student, University of Oregon Full Stack Bootcamp",
+        "description": "Productivity focused Social Accountability Platform for developers, featuring a database for user metrics over time, and Social Network features. Authenticated by and information obtained through Octokit by Github.",
+        "tags": ["All", "Featured Projects",  "Full-Stack", "React", "SQL", "Node", "APIs", "JavaScript"],
+        "tags-full": ["All", "Featured Projects",  "Full-Stack", "React.js", "SQL", "PostgreSQL", "Sequelize", "Node", "Express", "Heroku", "APIs", "JavaScript", "OAuth", "User Authentication"]
+    },
+    {
+        "id": 2,
+        "title": "Day Tripper",
+        "siteLink": "https://quotegoat.herokuapp.com/",
+        "gitHubLink": "https://github.com/Beki-G/Daytripper",
+        "preview": "./assets/images/previews/jukelab.png",
+        "description": "Collaborative Playlist Web Application, allowing a user with Spotify Premium to host an event playlist. Guests of the event can access the playlist, and add songs to the queue without needing a Spotify account. Built and operated without requiring a back-end server.",
+        "tags": ["All", "Featured Projects", "APIs", "JavaScript", "jQuery"],
+        "tags-full": ["All", "Featured Projects", "APIs", "JavaScript", "jQuery", "Heroku", "User Authentication", "Mobile Responsive"]
+    },
+    {
+        "id": 3,
+        "title": "Burger",
+        "siteLink": "https://timelymanager.herokuapp.com/",
+        "gitHubLink": "https://github.com/Jmnblnk54/Burger",
+        "preview": "./assets/images/previews/timely.png",
+        "role": "Student, University of Oregon Full Stack Bootcamp",
+        "description": "Time Management oriented Media Management Application providing users the ability to manage their media backlog. Users can access and prioritize selections from a vast library of Movies, TV Shows, Games and Books, for which we provide estimated completion times.",
+        "tags": ["All", "Featured Projects",  "Full-Stack", "SQL", "Node", "APIs", "jQuery", "JavaScript", "Handlebars"],
+        "tags-full": ["All", "Featured Projects", "Full-Stack", "SQL", "mySQL", "Sequelize", "Node", "Express", "Handlebars", "APIs", "JavaScript", "Heroku"]
+    },
+    {
+        "id": 4,
+        "title": "WeatherChecker",
+        "siteLink": "https://jmnblnk54.github.io/WeatherApp/",
+        "gitHubLink": "https://github.com/Jmnblnk54/WeatherApp",
+        "preview": "./assets/images/previews/WeatherChecker.JPG",
+        "description": "In this News Stand Web Application, users may request a web-crawl of up-to-date articles from NPR's News Website. After crawling through the current articles, images, titles and links are saved to a Mongo Database, and user's may save comments on the articles.",
+        "tags": ["All", "Full-Stack", "Node", "Express", "Handlebars", "Featured Projects"]
+    },
+    {
+        "id": 5,
+        "title": "Student Quiz",
+        "siteLink": "https://jmnblnk54.github.io/StudentExam/",
+        "gitHubLink": "https://github.com/Jmnblnk54/StudentExam",
+        "preview": "./assets/images/previews/studentQuizSS.jpg",
+        "description": "This React-based web-game challenges your ability to memorize your recent choices. This game utilizes dynamic component architecture and object-oriented programming to shuffle the displayed options in real time, and keep you on your toes.",
+        "tags": ["All", "React"]
+    },
+    {
+        "id": 6,
+        "title": "Back Logger",
+        "siteLink": "https://back-logger.herokuapp.com/",
+        "gitHubLink": "https://github.com/aehaq/Back-Logger",
+        "preview": "./assets/images/previews/backlogger.png",
+        "description": "This full-stack web app, a pre-cursor to the Featured Project 'Timely', allows users to manage a database containing a media backlog. The application utilizes Object Relational Mapping (ORM) to manage its SQL Functions.",
+        "tags": ["All", "Full-Stack", "Node", "Express", "Handlebars", "SQL"]
+    },
+    {
+        "id": 7,
+        "title": "Password Generator",
+        "siteLink": "https://movie-pals.herokuapp.com/",
+        "gitHubLink": "https://github.com/aehaq/Movie-Pals",
+        "preview": "./assets/images/previews/PWGenerator.JPG",
+        "description": "Movie Pals is a demo Full-Stack web app that serves up a movie-preference questionnaire, and uses an algorithm to match them with past users whose tastes align well with their own.",
+        "tags": ["All"]
+    },
+    {
+        "id": 8,
+        "title": "Fantasy Shop",
+        "siteLink": "",
+        "gitHubLink": "https://github.com/aehaq/Fantasy-Shop",
+        "preview": "./assets/images/previews/fantasyshop.png",
+        "description": "This Fantasy Shop is a command-line based interactive shop like those you might find in an old-school text adventure. Take on the role of either customer or manager and use simple-to-execute commands to make changes to a SQL database directly from your terminal.",
+        "tags": ["All", "Node", "SQL"]
+    }
+]

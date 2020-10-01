@@ -1,26 +1,32 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
+import Wrapper from "./components/Wrapper/Wrapper";
+import Header from "./components/Header/Header";
+import Projects from "./components/Projects";
+import { Container } from 'reactstrap';
+import { Animated } from "react-animated-css";
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+
+  state = {};
+
+  render() {
+    return (
+      <div>
+      <Wrapper>
+        <Container fluid className="p-0">
+          <Animated animationIn="slideInDown" isVisible={true}>
+            <Header/>
+          </Animated>
+          <Projects/>
+        </Container>
+        <footer className="footer text-center">
+          <small className="text-muted m-0 small">© Copyright { (new Date()).getFullYear() }</small>
+        </footer>
+      </Wrapper>
+      </div>
+    );
+  }
 }
 
 export default App;
