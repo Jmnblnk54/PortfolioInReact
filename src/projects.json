@@ -6,37 +6,37 @@
         "preview": "",
         "role": "Student, University of Oregon Full Stack Bootcamp",
         "description": "The portfolio website you are currently viewing was built and designed by me from scratch. The current build of this website is a Single-Page application built using React, with BootStrap styling elements provided through the ReactStrap Node Package.",
-        "tags": ["All", "Featured Projects", "React", "JavaScript"],
+        "tags": ["All", "React", "JavaScript"],
         "tags-full": []
     },{
         "id": 1,
         "title": "QuoteGoat",
-        "siteLink": "https://letsdev.herokuapp.com/",
-        "gitHubLink": "https://github.com/acekreations/Lets-Dev",
+        "siteLink": "https://quotegoat.herokuapp.com/",
+        "gitHubLink": "https://github.com/Beki-G/QuoteGOA",
         "preview": "./assets/images/previews/quoteGoatSS.jpg",
         "role": "Student, University of Oregon Full Stack Bootcamp",
-        "description": "Productivity focused Social Accountability Platform for developers, featuring a database for user metrics over time, and Social Network features. Authenticated by and information obtained through Octokit by Github.",
-        "tags": ["All", "Featured Projects",  "Full-Stack", "React", "SQL", "Node", "APIs", "JavaScript"],
+        "description": "Quote Goat is a collaborative project that allows users to save and categorize their own quotes/'isms to their account. Others can then up-vote their favorites by category.",
+        "tags": ["All", "Featured Projects",  "Full-Stack", "SQL", "Passport", "APIs", "JavaScript", "Sequelize", "Handlebars", "Bcrypt"],
         "tags-full": ["All", "Featured Projects",  "Full-Stack", "React.js", "SQL", "PostgreSQL", "Sequelize", "Node", "Express", "Heroku", "APIs", "JavaScript", "OAuth", "User Authentication"]
     },
     {
         "id": 2,
         "title": "Day Tripper",
-        "siteLink": "https://quotegoat.herokuapp.com/",
+        "siteLink": "https://beki-g.github.io/Daytripper/",
         "gitHubLink": "https://github.com/Beki-G/Daytripper",
-        "preview": "./assets/images/previews/jukelab.png",
-        "description": "Collaborative Playlist Web Application, allowing a user with Spotify Premium to host an event playlist. Guests of the event can access the playlist, and add songs to the queue without needing a Spotify account. Built and operated without requiring a back-end server.",
+        "preview": "./assets/images/previews/Daytripper.JPG",
+        "description": "Plan your day in your hometown or a city you are traveling to. Get a list of events and restaurants from Ticketmaster API and Zomato Api.",
         "tags": ["All", "Featured Projects", "APIs", "JavaScript", "jQuery"],
         "tags-full": ["All", "Featured Projects", "APIs", "JavaScript", "jQuery", "Heroku", "User Authentication", "Mobile Responsive"]
     },
     {
         "id": 3,
         "title": "Burger",
-        "siteLink": "https://timelymanager.herokuapp.com/",
+        "siteLink": "https://git.heroku.com/blank-burger.git",
         "gitHubLink": "https://github.com/Jmnblnk54/Burger",
-        "preview": "./assets/images/previews/timely.png",
+        "preview": "./assets/images/previews/Burger.jpg",
         "role": "Student, University of Oregon Full Stack Bootcamp",
-        "description": "Time Management oriented Media Management Application providing users the ability to manage their media backlog. Users can access and prioritize selections from a vast library of Movies, TV Shows, Games and Books, for which we provide estimated completion times.",
+        "description": "A standard app in bootcamps, Burger takes input for a burger name and stores it in the SQL database until you click the user clicks the button to eat it, when it is stored in a list of eaten burgers.",
         "tags": ["All", "Featured Projects",  "Full-Stack", "SQL", "Node", "APIs", "jQuery", "JavaScript", "Handlebars"],
         "tags-full": ["All", "Featured Projects", "Full-Stack", "SQL", "mySQL", "Sequelize", "Node", "Express", "Handlebars", "APIs", "JavaScript", "Heroku"]
     },
@@ -46,8 +46,8 @@
         "siteLink": "https://jmnblnk54.github.io/WeatherApp/",
         "gitHubLink": "https://github.com/Jmnblnk54/WeatherApp",
         "preview": "./assets/images/previews/WeatherChecker.JPG",
-        "description": "In this News Stand Web Application, users may request a web-crawl of up-to-date articles from NPR's News Website. After crawling through the current articles, images, titles and links are saved to a Mongo Database, and user's may save comments on the articles.",
-        "tags": ["All", "Full-Stack", "Node", "Express", "Handlebars", "Featured Projects"]
+        "description": "This is a standard weather app, which give a 5 day forecast as well as current weather, using the OpenWeatherMap API.",
+        "tags": ["All", "APIs", "JavaScript", "JQuery", "CSS", "Local Storage"]
     },
     {
         "id": 5,
@@ -55,34 +55,34 @@
         "siteLink": "https://jmnblnk54.github.io/StudentExam/",
         "gitHubLink": "https://github.com/Jmnblnk54/StudentExam",
         "preview": "./assets/images/previews/studentQuizSS.jpg",
-        "description": "This React-based web-game challenges your ability to memorize your recent choices. This game utilizes dynamic component architecture and object-oriented programming to shuffle the displayed options in real time, and keep you on your toes.",
-        "tags": ["All", "React"]
+        "description": "",
+        "tags": ["All", "JavaScript", "CSS", "jQuery", "Local Storage"]
     },
     {
         "id": 6,
-        "title": "Back Logger",
-        "siteLink": "https://back-logger.herokuapp.com/",
-        "gitHubLink": "https://github.com/aehaq/Back-Logger",
-        "preview": "./assets/images/previews/backlogger.png",
-        "description": "This full-stack web app, a pre-cursor to the Featured Project 'Timely', allows users to manage a database containing a media backlog. The application utilizes Object Relational Mapping (ORM) to manage its SQL Functions.",
-        "tags": ["All", "Full-Stack", "Node", "Express", "Handlebars", "SQL"]
+        "title": "Code Locker",
+        "siteLink": "",
+        "gitHubLink": "https://github.com/MarkKelly00/codeLocker",
+        "preview": "./assets/images/previews/codeLocker.png",
+        "description": "Coming soon!!! Check back by 10/27/2020.",
+        "tags": ["All", "Full-Stack", "Node", "Express", "React", "MongoDB", "JavaScript", "CSS", "MERN"]
     },
     {
         "id": 7,
         "title": "Password Generator",
-        "siteLink": "https://movie-pals.herokuapp.com/",
-        "gitHubLink": "https://github.com/aehaq/Movie-Pals",
+        "siteLink": "https://jmnblnk54.github.io/PasswordGenerator/",
+        "gitHubLink": "https://github.com/Jmnblnk54/PasswordGenerator",
         "preview": "./assets/images/previews/PWGenerator.JPG",
-        "description": "Movie Pals is a demo Full-Stack web app that serves up a movie-preference questionnaire, and uses an algorithm to match them with past users whose tastes align well with their own.",
-        "tags": ["All"]
+        "description": "",
+        "tags": ["All", "CSS", "HTML", "JavaScript", "JQuery"]
     },
     {
         "id": 8,
-        "title": "Fantasy Shop",
-        "siteLink": "",
-        "gitHubLink": "https://github.com/aehaq/Fantasy-Shop",
-        "preview": "./assets/images/previews/fantasyshop.png",
-        "description": "This Fantasy Shop is a command-line based interactive shop like those you might find in an old-school text adventure. Take on the role of either customer or manager and use simple-to-execute commands to make changes to a SQL database directly from your terminal.",
-        "tags": ["All", "Node", "SQL"]
+        "title": "HTML Builder",
+        "siteLink": "https://jmnblnk54.github.io/oopTemplateEngine/",
+        "gitHubLink": "https://github.com/Jmnblnk54/oopTemplateEngine",
+        "preview": "",
+        "description": "",
+        "tags": ["All", "Node"]
     }
 ]
