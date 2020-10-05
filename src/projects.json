@@ -26,7 +26,7 @@
         "gitHubLink": "https://github.com/Beki-G/Daytripper",
         "preview": "./assets/images/previews/DayTripperSS.jpg",
         "description": "Plan your day in your hometown or a city you are traveling to. Get a list of events and restaurants from Ticketmaster API and Zomato Api.",
-        "tags": ["All", "Featured Projects", "APIs", "JavaScript", "jQuery"],
+        "tags": ["All", "APIs", "JavaScript", "jQuery"],
         "tags-full": ["All", "Featured Projects", "APIs", "JavaScript", "jQuery", "Heroku", "User Authentication", "Mobile Responsive"]
     },
     {
@@ -47,7 +47,7 @@
         "gitHubLink": "https://github.com/Jmnblnk54/WeatherApp",
         "preview": "./assets/images/previews/WeatherCheckerSS.jpg",
         "description": "This is a standard weather app, which give a 5 day forecast as well as current weather, using the OpenWeatherMap API.",
-        "tags": ["All", "APIs", "JavaScript", "JQuery", "CSS", "Local Storage"]
+        "tags": ["All", "APIs", "Featured Projects", "JavaScript", "JQuery", "CSS", "Local Storage"]
     },
     {
         "id": 5,
