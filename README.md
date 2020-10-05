@@ -50,7 +50,7 @@ Github Repo:
 https://github.com/Jmnblnk54/PortfolioInReact
 
 Deployed:
-
+https://jmnblnk54.github.io/PortfolioInReact
 
 ## Image:
 
