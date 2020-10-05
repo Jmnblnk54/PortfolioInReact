@@ -11,10 +11,10 @@ class Projects extends Component {
     
         this.toggle = this.toggle.bind(this);
         this.state = {
-          dropdownOpen: false,
-          filter: "Featured Projects",
-          projects: projects,
-          displayedProjects: projects.filter(project => project.tags.includes("Featured Projects"))
+            dropdownOpen: false,
+            filter: "Featured Projects",
+            projects: projects,
+            displayedProjects: projects.filter(project => project.tags.includes("Featured Projects"))
         };
     }
 
@@ -58,6 +58,7 @@ class Projects extends Component {
                             <DropdownItem onClick={() => this.setFilter("SQL")} id="SQL">SQL</DropdownItem>
                             <DropdownItem onClick={() => this.setFilter("MongoDB")} id="MongoDB">MongoDB</DropdownItem>
                             <DropdownItem onClick={() => this.setFilter("MERN")} id="MERN">MERN</DropdownItem>
+                            <DropdownItem onClick={() => this.setFilter("JavaScript")} id="JavaScript">JavaScript</DropdownItem>
                         </DropdownMenu>
                     </ButtonDropdown>
                 </Row>

@@ -3,9 +3,9 @@
         "id": 0,
         "title": "React-Portfolio",
         "gitHubLink": "https://github.com/Jmnblnk54/PortfolioInReact",
-        "preview": "",
+        "preview": "./assets/images/previews/PortfolioSS.jpg",
         "role": "Student, University of Oregon Full Stack Bootcamp",
-        "description": "The portfolio website you are currently viewing was built and designed by me from scratch. The current build of this website is a Single-Page application built using React, with BootStrap styling elements provided through the ReactStrap Node Package.",
+        "description": "The portfolio website you are viewing was built and designed by me from scratch. This website is a Single-Page application built using React, with BootStrap styling elements from the ReactStrap Node Package.",
         "tags": ["All", "React", "JavaScript"],
         "tags-full": []
     },{
@@ -13,7 +13,7 @@
         "title": "QuoteGoat",
         "siteLink": "https://quotegoat.herokuapp.com/",
         "gitHubLink": "https://github.com/Beki-G/QuoteGOA",
-        "preview": "./assets/images/previews/quoteGoatSS.jpg",
+        "preview": "./assets/images/previews/QuoteGoatSS.jpg",
         "role": "Student, University of Oregon Full Stack Bootcamp",
         "description": "Quote Goat is a collaborative project that allows users to save and categorize their own quotes/'isms to their account. Others can then up-vote their favorites by category.",
         "tags": ["All", "Featured Projects",  "Full-Stack", "SQL", "Passport", "APIs", "JavaScript", "Sequelize", "Handlebars", "Bcrypt"],
@@ -24,7 +24,7 @@
         "title": "Day Tripper",
         "siteLink": "https://beki-g.github.io/Daytripper/",
         "gitHubLink": "https://github.com/Beki-G/Daytripper",
-        "preview": "./assets/images/previews/Daytripper.JPG",
+        "preview": "./assets/images/previews/DayTripperSS.jpg",
         "description": "Plan your day in your hometown or a city you are traveling to. Get a list of events and restaurants from Ticketmaster API and Zomato Api.",
         "tags": ["All", "Featured Projects", "APIs", "JavaScript", "jQuery"],
         "tags-full": ["All", "Featured Projects", "APIs", "JavaScript", "jQuery", "Heroku", "User Authentication", "Mobile Responsive"]
@@ -34,7 +34,7 @@
         "title": "Burger",
         "siteLink": "https://git.heroku.com/blank-burger.git",
         "gitHubLink": "https://github.com/Jmnblnk54/Burger",
-        "preview": "./assets/images/previews/Burger.jpg",
+        "preview": "./assets/images/previews/BurgerSS.jpg",
         "role": "Student, University of Oregon Full Stack Bootcamp",
         "description": "A standard app in bootcamps, Burger takes input for a burger name and stores it in the SQL database until you click the user clicks the button to eat it, when it is stored in a list of eaten burgers.",
         "tags": ["All", "Featured Projects",  "Full-Stack", "SQL", "Node", "APIs", "jQuery", "JavaScript", "Handlebars"],
@@ -45,7 +45,7 @@
         "title": "WeatherChecker",
         "siteLink": "https://jmnblnk54.github.io/WeatherApp/",
         "gitHubLink": "https://github.com/Jmnblnk54/WeatherApp",
-        "preview": "./assets/images/previews/WeatherChecker.JPG",
+        "preview": "./assets/images/previews/WeatherCheckerSS.jpg",
         "description": "This is a standard weather app, which give a 5 day forecast as well as current weather, using the OpenWeatherMap API.",
         "tags": ["All", "APIs", "JavaScript", "JQuery", "CSS", "Local Storage"]
     },
@@ -55,7 +55,7 @@
         "siteLink": "https://jmnblnk54.github.io/StudentExam/",
         "gitHubLink": "https://github.com/Jmnblnk54/StudentExam",
         "preview": "./assets/images/previews/studentQuizSS.jpg",
-        "description": "",
+        "description": "Here, I provide a timed quiz that tracks scores for testers' knowledge of basic coding and save the top scores to local storage.",
         "tags": ["All", "JavaScript", "CSS", "jQuery", "Local Storage"]
     },
     {
@@ -63,7 +63,7 @@
         "title": "Code Locker",
         "siteLink": "",
         "gitHubLink": "https://github.com/MarkKelly00/codeLocker",
-        "preview": "./assets/images/previews/codeLocker.png",
+        "preview": "./assets/images/previews/CodeLockerSS.png",
         "description": "Coming soon!!! Check back by 10/27/2020.",
         "tags": ["All", "Full-Stack", "Node", "Express", "React", "MongoDB", "JavaScript", "CSS", "MERN"]
     },
@@ -72,17 +72,17 @@
         "title": "Password Generator",
         "siteLink": "https://jmnblnk54.github.io/PasswordGenerator/",
         "gitHubLink": "https://github.com/Jmnblnk54/PasswordGenerator",
-        "preview": "./assets/images/previews/PWGenerator.JPG",
-        "description": "",
+        "preview": "./assets/images/previews/PWGeneratorSS.jpg",
+        "description": "Input your required password parameters and receive a randomly generated password.",
         "tags": ["All", "CSS", "HTML", "JavaScript", "JQuery"]
     },
     {
         "id": 8,
         "title": "HTML Builder",
-        "siteLink": "https://jmnblnk54.github.io/oopTemplateEngine/",
+        "siteLink": "",
         "gitHubLink": "https://github.com/Jmnblnk54/oopTemplateEngine",
-        "preview": "",
-        "description": "",
-        "tags": ["All", "Node"]
+        "preview": "./assets/images/previews/HTMLBuilderSS.jpg",
+        "description": "An application uses OOP and node.js commands in terminal that takes in information about employees and generates an HTML page that displays summary cantact details for different employees.",
+        "tags": ["All", "Node", "JavaScript"]
     }
 ]
