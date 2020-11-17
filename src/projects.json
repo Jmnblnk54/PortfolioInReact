@@ -12,7 +12,7 @@
         "id": 1,
         "title": "QuoteGoat",
         "siteLink": "https://quotegoat.herokuapp.com/",
-        "gitHubLink": "https://github.com/Beki-G/QuoteGOA",
+        "gitHubLink": "https://github.com/Jmnblnk54/QuoteGOAT",
         "preview": "./assets/images/previews/quoteGoatSS.jpg",
         "role": "Student, University of Oregon Full Stack Bootcamp",
         "description": "Quote Goat is a collaborative project that allows users to save and categorize their own quotes/'isms to their account. Others can then up-vote their favorites by category.",
